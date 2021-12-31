@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Tobey Hainge, I'm almost finished with my BA in cyber security and am looking to become a web developer.
+- 👀 I'm interested in Javascript and python and am lookning to start a career in them.
+- 🌱 I'm currently finishing up college while also learning advanced javascript, python, machine learning, sql, nosql, and more.
+- 💞️ I'm looking to contribute to projects on github that involve coding of javascript, python, html, css, and sql.
+- 📫 You can reach me at my email address of tobeyhainge@gmail.com if you have any questions!
